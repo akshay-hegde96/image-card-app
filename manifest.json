@@ -1,0 +1,23 @@
+{
+  "vendor": "echidna",
+  "name": "image-card",
+  "version": "0.0.1",
+  "title": "Image Card",
+  "description": "This block can be used for creating image card",
+  "builders": {
+    "styles": "2.x",
+    "store": "0.x",
+    "sitemap": "0.x",
+    "docs": "0.x",
+    "react": "3.x"
+  },
+  "dependencies": {
+    "vtex.styleguide": "9.x",
+    "vtex.css-handles": "0.x"
+  },
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

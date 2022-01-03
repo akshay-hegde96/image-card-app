@@ -1,0 +1,16 @@
+.card {
+  width: 20%;
+  border: 1px solid black;
+  margin: 10px;
+  text-align: center;
+  padding: 10px;
+}
+p{
+  word-wrap: break-word;
+}
+.cardFooter{
+  border-top: 1px solid black;
+}
+.cardButtonWrapper{
+  padding: 10px;
+}
